@@ -1,4 +1,4 @@
-Proyecto demostración a sistemas 21 A
+Proyecto demostración a sistemas 21 B
 
 El proyecto esta realizado con:
 
@@ -6,5 +6,3 @@ El proyecto esta realizado con:
 * Incluye conexión a base de datos MySQL.
 * CRUD.
 * Otros.
-
-by. Prof. Gámez.
